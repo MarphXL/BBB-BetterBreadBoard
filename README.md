@@ -40,8 +40,10 @@ Breadboards from china are often very very low quality. So this is a breadboard 
 ./.
 
 ## Abbildungen
-![Front](images/front.png)
-![Back](images/back.png)
+* ![B³ v1](PCB/BBB_v1.png)
+* ![B³-Adapter Nano](PCB/Adapters/B³-Adapter_Nano_v3.png)
+* ![B³-Adapter Nano](PCB/Adapters/B³-Adapter_ProMicro_v3.png)
+* ![B³-Adapter Nano](PCB/Adapters/B³-Adapter_ProMini_v3.png)
 
 ## Credits
 * :+1: [arduino](https://github.com/arduino)
