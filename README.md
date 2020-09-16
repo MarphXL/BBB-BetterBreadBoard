@@ -1,39 +1,43 @@
 # Vorlage
 ## Inhaltsverzeichnis
 1. [x] [Inhaltsverzeichnis](#Inhaltsverzeichnis)
-1. [ ] [Beschreibung](#Beschreibung)
-1. [ ] [Hardware](#Hardware)
-   1. [ ] [Technische Daten](#technische-daten)
-   1. [ ] [Datasheet](#datasheet)
-   1. [ ] [PCB](#PCB)
-1. [ ] [Software](#Software)
-1. [ ] [3D](#3D)
-1. [ ] [Where to buy](#Where-to-buy)
-1. [ ] [Abbildungen](#Abbildungen)
+1. [x] [Beschreibung](#Beschreibung)
+1. [x] [Hardware](#Hardware)
+   1. [x] [Technische Daten](#technische-daten)
+   1. [x] [Datasheet](#datasheet)
+   1. [x] [PCB](#PCB)
+1. [x] [Software](#Software)
+1. [x] [3D](#3D)
+1. [x] [Where to buy](#Where-to-buy)
+1. [x] [Abbildungen](#Abbildungen)
 1. [x] [Credits](#Credits)
 
 ## Beschreibung
-bla
+Breadboards from china are often very very low quality. So this is a breadboard on my own pcb. I have designed some adapters for different arduino-versions, so I can easily contact them on the breadboard. The board separates serial, spi and I²C-Interfaces. At the top-right I can plug in an OLED-Display easyily.
+3.3V comes from an AMS1117. So if something went wrong or I've new ideas it might be, that I make a better version.
 
 ## Hardware
 ### Technische Daten
-* Modell:Multiplexer/Demultiplexer
-* Typ:74HC 4067
-* Temperaturbereich:-40 ... +85 °C
-* Versorgungsspannung:2,0 ... 10,0 VDC
-* Leistung:500 mW
-* LCSC Part #: C6525 / C424181 / [C98457](https://lcsc.com/product-detail/Analog-Switches_TI_CD74HC4067SM96_CD74HC4067SM96_C98457.html/?href=jlc-SMT)
-* EAN / GTIN: 9900001079047
+* 400 pins (200 pins each side) to work with
+* 40 GND- and 40 Power-pins at the top and at the bottom
+* some LED, Poti, Switches, one encoder and one  buzzer
+* Jumper to switch between 5V from USB-C-Connector or from the Microcontroller
 
 ### Datasheet
-* [TI.com datasheet](https://www.ti.com/lit/ds/symlink/cd74hc4067.pdf)
-* [snapshot](datasheet/xyz.pdf)
+./.
+
 ### PCB
+[Adapters](PCB/Adapters)
+[B³ - BetterBreadBoard](PCB)
+
 ## Software
+./.
+
 ## 3D
+./.
 
 ## Where to buy
-~ 6 EUR for 10pcs: [AliExpress](https://www.aliexpress.com/item/32821800330.html)
+./.
 
 ## Abbildungen
 ![Front](images/front.png)
