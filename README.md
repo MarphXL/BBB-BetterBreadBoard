@@ -9,7 +9,7 @@
 1. [x] [Software](#Software)
 1. [x] [3D](#3D)
 1. [x] [Where to buy](#Where-to-buy)
-1. [x] [Abbildungen](#Abbildungen)
+1. [ ] [Abbildungen](#Abbildungen)
 1. [x] [Credits](#Credits)
 
 ## Beschreibung
@@ -27,8 +27,8 @@ Breadboards from china are often very very low quality. So this is a breadboard 
 ./.
 
 ### PCB
-[Adapters](PCB/Adapters)
-[B³ - BetterBreadBoard](PCB)
+* [Adapters](PCB/Adapters)
+* [B³ - BetterBreadBoard](PCB)
 
 ## Software
 ./.
